@@ -24,7 +24,7 @@ To install and run this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Malesh245/To-do App.git
+   git clone https://github.com/Malesh245/To-do-App.git
    cd To-do App
    ```
 
